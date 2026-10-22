@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Dataset and generated artifacts
+datasets/
+runs/
+*.pt
+*_detections.mp4
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
